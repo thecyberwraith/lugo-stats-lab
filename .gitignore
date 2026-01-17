@@ -1,0 +1,9 @@
+.venv
+.vscode
+
+jupyterlite/_output
+.jupyterlite.doit.db
+
+lugo_stats_package/build
+lugo_stats_package/dist
+*.egg-info

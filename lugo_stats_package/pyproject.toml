@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lugo_stats"
+description = "Extra functionality specific to Dr. Lugo's Math 212 Statistics Course."
+
+version = "0.0.1"
+dependencies = []
+requires-python = ">= 3.11"
+
+license-files = ["LICENSE"]
+readme = "README.md"
+
+authors = [
+    {name = "Michael Lugo", email = "mlugo@cn.edu"}
+]
+
+maintainers = [
+    {name = "Michael Lugo", email = "mlugo@cn.edu"}
+]

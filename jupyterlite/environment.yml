@@ -1,0 +1,8 @@
+name: xeus-kernel
+channels:
+  - https://repo.mamba.pm/emscripten-forge
+  - conda-forge
+dependencies:
+  - xeus-python
+  - pip:
+    - ../lugo_stats_package/dist/lugo_stats-0.0.1-py3-none-any.whl

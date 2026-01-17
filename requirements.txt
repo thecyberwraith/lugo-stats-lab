@@ -1,0 +1,4 @@
+build
+jupyterlite-core
+jupyterlite-xeus
+jupyterlab
