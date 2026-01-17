@@ -4,5 +4,10 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
   - pip:
     - ../lugo_stats_package/dist/lugo_stats-0.0.1-py3-none-any.whl
